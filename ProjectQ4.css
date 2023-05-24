@@ -1,0 +1,55 @@
+#div1 {
+    border-radius: 26px;
+    border: 7px solid #869f77;
+    box-shadow: 10px 10px #435b4d;
+    background: #fde9ea;
+    margin: 8%;
+    padding: 20px;
+    width: 900px;
+    height: 750px;
+}
+
+body {
+	background: #f4efec;
+}
+
+h1 {
+	font-family: Starborn;
+	font-size: 50px;
+	color: #e89697;
+}
+
+h2 {
+	font-family: Lemon milk;
+	letter-spacing: 3px;
+	color: #e89697;
+}
+
+h3 {
+	font-family: Lemon milk;
+	letter-spacing: 3px;
+	font-size: 25px;
+	color: #e7b5ac;
+}
+
+h4 {
+	font-family: Lemon milk;
+	letter-spacing: 2px;
+	color: #869f77;
+}
+
+p {
+	font-family: Lemon milk;
+	color: #435b4d;
+	font-size: 17px;
+}
+
+input {
+	margin: 6px;
+	padding: 2px;
+}
+
+label {
+	font-family: Lemon milk;
+	color: #435b4d;
+}
